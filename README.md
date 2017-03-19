@@ -1,6 +1,6 @@
-# vue-webpack
+# webpack-template
 
-a vue-cli using webpack
+a webpack template
 
 ## Build Setup
 

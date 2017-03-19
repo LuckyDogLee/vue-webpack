@@ -1,14 +1,14 @@
 {
-  "name": "vue-webpack",
+  "name": "webpack-template",
   "version": "1.0.0",
-  "description": "a vue-cli using webpack",
+  "description": "a webpack template",
   "main": "src/index.js",
   "scripts": {
     "dev": "webpack-dev-server --config build/webpack.config.dev.js --progress",
     "build": "webpack --config build/webpack.config.prod.js --progress --hide-modules"
   },
-  "keywords": ["vue", "webpack"],
-  "author": "",
+  "keywords": ["webpack", "template", "components"],
+  "author": "LuckyPandaLee",
   "license": "MIT",
   "devDependencies": {
     "chunk-manifest-webpack-plugin": "^1.0.0",
